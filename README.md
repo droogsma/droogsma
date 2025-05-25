@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Derek Droogsma
 
-<!--
-**droogsma/droogsma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-time musician and music director exploring the world of automation, scripting, and problem-solving through Python.
 
-Here are some ideas to get you started:
+### 🧰 Projects
+- 🧠 [Quotes Web Scraper](https://github.com/droogsma/quotes-web-scraper-clean) – Web scraper that pulls quotes and authors into a CSV file
+- 🧼 [Remove Comments Script](https://github.com/droogsma/remove-comments) – Cleans `.py` files by removing full-line comments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Python fundamentals
+- File I/O, CSV parsing, and automation
+- Git and GitHub workflows
+
+### 🎯 Goals
+- Build a solid project portfolio
+- Automate real-life problems
+- Gain confidence with scripting and sharing tools online
+
+---
+
+📫 Reach me via GitHub or [add your contact method here if you want]
