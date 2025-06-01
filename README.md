@@ -18,4 +18,4 @@ I'm a full-time musician and music director exploring the world of automation, s
 
 ---
 
-📫 Reach me via GitHub or [add your contact method here if you want]
+📫 Reach me via GitHub.
